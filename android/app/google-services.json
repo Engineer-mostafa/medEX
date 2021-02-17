@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "717033233822",
+    "firebase_url": "https://medex-2ac4e-default-rtdb.firebaseio.com",
+    "project_id": "medex-2ac4e",
+    "storage_bucket": "medex-2ac4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717033233822:android:caa3a60e9d79c61c4aca8f",
+        "android_client_info": {
+          "package_name": "com.example.medEX"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717033233822-r2ivmfujejj4c6ehp06g15ooen9qdgf7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medEX",
+            "certificate_hash": "7f8d7ac856a93ab4d2657777b71fe224a45cce79"
+          }
+        },
+        {
+          "client_id": "717033233822-kqdn1at9pkjajfmtse2ckq65gv2mpd7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALsb1p41CDs46CHw7DoK48QLH1rXXR54Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717033233822-kqdn1at9pkjajfmtse2ckq65gv2mpd7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
